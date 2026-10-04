@@ -1,0 +1,4 @@
+com\example\produtor_rabbit\controller\PedidoController.class
+com\example\produtor_rabbit\RabbitBeanConfiguration.class
+com\example\produtor_rabbit\Pedido.class
+com\example\produtor_rabbit\ProdutorRabbitApplication.class
