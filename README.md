@@ -4,8 +4,8 @@ Projeto desenvolvido para a atividade **Nota01 - Sprint 2 - 5º Semestre**.
 
 ## Participantes
 
-* Igor Felix Latorre Simão
-* Manuela Miyuki Diogo Matsumoto
+* Igor Felix Latorre Simão (04251120)
+* Manuela Miyuki Diogo Matsumoto (04251036)
 
 ## Sobre o projeto
 
